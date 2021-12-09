@@ -7,7 +7,7 @@ import types
 import numpy as np
 
 from sklearn.metrics import accuracy_score
-from sklearn.tree.tree import DecisionTreeClassifier
+from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble.weight_boosting import AdaBoostClassifier
 from sklearn.ensemble.forest import RandomForestClassifier
 from sklearn.ensemble.forest import ExtraTreesClassifier
